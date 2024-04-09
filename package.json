@@ -1,0 +1,31 @@
+{
+  "name": "google-api",
+  "version": "1.0.0",
+  "description": "Google Api for create user Bulk",
+  "main": "create.js",
+  "scripts": {
+    "test": "node create.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guruhkennedy/Google-Api-addUser.git"
+  },
+  "keywords": [
+    "Add",
+    "bulk",
+    "user",
+    "Google",
+    "api"
+  ],
+  "author": "guruhkennedy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guruhkennedy/Google-Api-addUser/issues"
+  },
+  "homepage": "https://github.com/guruhkennedy/Google-Api-addUser#readme",
+  "dependencies": {
+    "googleapis": "^134.0.0",
+    "open": "^10.1.0",
+    "readline": "^1.3.0"
+  }
+}
